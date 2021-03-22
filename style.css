@@ -1,0 +1,25 @@
+#image{
+  width: 300px;
+  border-radius: 50%;
+}
+
+html{
+  text-align: center;
+}
+
+.line {
+    height: 6px;
+    background-color: black;
+    width: 80px;
+    margin: 8px auto;
+}
+
+.menu {
+    list-style: none;
+    font-family: sans-serif;
+    float: right;
+    top: 10px;
+    left: 30px;
+    cursor: pointer;
+    color: black;
+}
